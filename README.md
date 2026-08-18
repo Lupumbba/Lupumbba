@@ -22,15 +22,6 @@
 | [systematic-learning-engine](https://github.com/Lupumbba/systematic-learning-engine) | 系统化学习 Agent | 能力地图、课程生成、练习与项目、Obsidian 知识库和进度管理 |
 | [lulu-article-illustrations](https://github.com/Lupumbba/lulu-article-illustrations) | 中文文章配图 Codex Skill | 内容理解、视觉隐喻、稳定的图像生成流程和质量规则 |
 
-## 推荐阅读顺序
-
-如果你是面试官，建议按以下顺序了解我的项目：
-
-1. **Factor-Momentum-Backtest**：先看研究问题如何被转化为明确的策略和回测流程。
-2. **finance-ai-assistant**：再看数据采集、AI 分析、CLI/Web 交互和部署方式。
-3. **ai-wealth-debate**：最后看多 Agent 协作、角色设计和产品化交互。
-
-每个精选项目的 README 都包含项目目标、系统结构、安装方式和运行示例。
 
 ## 项目说明
 
@@ -44,4 +35,3 @@
 
 `Python` · `FastAPI` · `Flask` · `Streamlit` · `Docker` · `LLM` · `Multi-Agent` · `RAG` · `FinBERT` · `Backtesting` · `Codex Skill` · `Obsidian`
 
-欢迎从上面的精选项目开始查看。
